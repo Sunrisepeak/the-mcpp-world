@@ -1,2 +1,3 @@
-# mcpp-f0t1
-Building an MC++ World (0 -> 1) / 从0到1构建MC++世界
+# The MC++ World / MC++ 世界
+
+> Building an MC++ World from Scratch / 从零开始构建 MC++ 世界
